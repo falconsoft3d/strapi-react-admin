@@ -11,7 +11,7 @@ npm run develop
 
 # Create the react client
 ```
-yarn create-react-app client
+yarn create react-app client
 cd client
 yarn add react-admin ra-strapi-rest
 ```
