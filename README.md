@@ -13,7 +13,7 @@ cd client
 yarn add react-admin ra-strapi-rest
 ```
 
-# Create the helper for Cookies
+# Create the helper for Cookies in the Client
 ```
 // helpers/Cookies
 
