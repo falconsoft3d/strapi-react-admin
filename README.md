@@ -14,6 +14,7 @@ npm run develop
 yarn create react-app client
 cd client
 yarn add react-admin ra-strapi-rest
+yarn start
 ```
 
 # Create the helper for Cookies in the Client
