@@ -19,7 +19,7 @@ yarn start
 
 # Create the helper for Cookies in the Client
 ```
-// helpers/Cookies
+// helpers/Cookies.js
 
 const Cookies = {
 	getCookie: (name) => {
