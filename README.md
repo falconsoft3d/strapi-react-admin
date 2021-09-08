@@ -4,7 +4,7 @@
 
 # Create the strapi server
 ```
-npx create-strapi-app server --quickstart
+npx create-strapi-app server
 cd server
 npm run develop
 ```
