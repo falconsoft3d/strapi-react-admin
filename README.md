@@ -1,4 +1,4 @@
-# strapi-react-admin
+# Integrate Strapi and React-admin
 # Create the strapi server
 ```
 npx create-strapi-app server
