@@ -1,6 +1,6 @@
 # Integrate Strapi and React-admin
-https://strapi.io/
-https://marmelab.com/react-admin/
+- https://strapi.io/
+- https://marmelab.com/react-admin/
 
 # Create the strapi server
 ```
