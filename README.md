@@ -94,9 +94,9 @@ export default {
 }
 ```
 
-# Create the post.js
+# Create the posts.js
 ```
-// post.js
+// posts.js
 import React from 'react';
 import { ReferenceInput, BooleanInput, SelectInput, List, Datagrid, TextField, TextInput, Edit, Create, SimpleForm } from 'react-admin';
 
