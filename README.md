@@ -1,7 +1,7 @@
 # Integrate Strapi and React-admin
 # Create the strapi server
 ```
-npx create-strapi-app server
+npx create-strapi-app server --quickstart
 cd server
 npm run develop
 ```
