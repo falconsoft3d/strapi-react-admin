@@ -17,6 +17,12 @@ yarn add react-admin ra-strapi-rest
 yarn start
 ```
 
+![Alt text](https://github.com/falconsoft3d/strapi-react-admin/blob/master/img/11.31.04.png?raw=true "Ynext")
+![Alt text](https://github.com/falconsoft3d/strapi-react-admin/blob/master/img/11.31.21.png?raw=true "Ynext")
+![Alt text](https://github.com/falconsoft3d/strapi-react-admin/blob/master/img/11.38.36.png?raw=true "Ynext")
+![Alt text](https://github.com/falconsoft3d/strapi-react-admin/blob/master/img/11.38.51.png?raw=true "Ynext")
+![Alt text](https://github.com/falconsoft3d/strapi-react-admin/blob/master/img/11.39.10.png?raw=true "Ynext")
+
 # Create the helper for Cookies in the Client
 ```
 // helpers/Cookies.js
